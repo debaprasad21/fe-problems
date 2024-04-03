@@ -1,0 +1,7 @@
+Problem: Adding Meta Tags for Responsiveness and Character Encoding & Understanding the Specificity Hierarchy
+Objective: 
+1. Use meta tags to specify the character encoding for an HTML document and make it mobile-responsive.
+2. Correctly apply multiple selectors of different types to style specific elements, illustrating the hierarchy within CSS specificity.
+
+Instructions: 
+1. Fill in the blanks to correctly use meta tags for specifying UTF-8 character encoding and for ensuring mobile responsiveness.

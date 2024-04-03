@@ -1,0 +1,8 @@
+Problem: Sticky Header Navigation & Overlay an Element with Fixed Positioning
+Objective: 
+1. Create a sticky header that remains at the top of the viewport as you scroll down the page.
+2. Overlay a "Back to Top" button fixed at the bottom-right corner of the viewport.
+
+Instructions: 
+1. Fill in the blanks to complete the CSS that makes the <header> element sticky.
+2.  Use CSS to position a <button> element fixed within the viewport, so it remains visible no matter how far the user scrolls down the page.

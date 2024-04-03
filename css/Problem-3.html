@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My HTML5 Page</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      header {
+        position: sticky;
+        top: 0;
+        width: 100%;
+        background-color: #333;
+        padding: 10px 0;
+        color: white;
+        text-align: center;
+      }
+      .content {
+        height: 2000px;
+      }
+      .button-top {
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        padding: 10px;
+        background-color: red;
+        color: white;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <header>This is a sticky header!</header>
+    <main>
+      <div class="content">
+        <h1>Scroll down to see the effect</h1>
+        <h2>"Back to Top" button will remain visible.</h2>
+      </div>
+      <button class="button-top">Back to Top</button>
+    </main>
+  </body>
+</html>
