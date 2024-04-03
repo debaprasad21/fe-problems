@@ -1,0 +1,4 @@
+Problem: Structuring a Web Page Using Semantic Tags
+Objective: Use semantic HTML tags to fill in the blanks and complete the web page structure which includes a header, section, main content area with an article, and a footer.
+
+Instructions: Choose the correct semantic tags to fill in the blanks and complete the layout of the web page.

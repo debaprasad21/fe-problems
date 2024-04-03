@@ -1,0 +1,8 @@
+Problem: Create a Responsive Image Gallery
+Objective: Build a responsive image gallery using only HTML and CSS.
+The gallery should adjust gracefully to different screen sizes, displaying images in a grid format.
+
+Requirements:
+
+Refer the <div> element to see the gallery container has image tags included.
+Add CSS to ensure the gallery is responsive in the style tag.

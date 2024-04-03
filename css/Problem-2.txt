@@ -1,0 +1,11 @@
+Problem: Flexbox Layout & Centering with Flexbox
+Objective:
+1. Use CSS Flexbox to create a navigation bar layout. Fill in the blanks to complete the CSS rules that make the navigation items display in a row and distribute space between them evenly.
+2. Center a <div> element both vertically and horizontally inside its parent container using Flexbox. Fill in the blanks to complete the CSS.
+
+Instructions:
+1.  a. Make the <nav> element a flex container.
+    b. Ensure the navigation items inside the <nav> are evenly spaced across the container's main axis.
+
+2.  a. Make the parent container a flex container.
+    b. Apply CSS properties to center its child <div> both vertically and horizontally.
