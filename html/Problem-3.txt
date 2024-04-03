@@ -1,0 +1,4 @@
+Problem: Email Layout with Product Details
+Objective: Create a basic email layout with a header, content section with two columns, and footer using HTML tables.
+
+Instructions: Fill in the blanks to complete the structure of an email template.
